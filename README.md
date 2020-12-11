@@ -1,4 +1,2 @@
-# Categorical-Data-into-Numerical-Data-in-Panda
-In Machine Learning Algorithms data needs to be in Numerical format before applying any algorithms.
+# Fake News Detection with Machine Learning
 
-If you have categorical data available, then using Pandas Library we can convert into Numerical datas.
